@@ -1,5 +1,5 @@
 # Overview
-This repository contains official implementation for our paper titled "Improving Normative Modeling for Multi-modal Neuroimaging Data using mixture-of-product-of-experts variational autoencoders", accepted in IEEE International Symposium in Biomedical Imaging (IEEE ISBI 2024). [[ArXiV](https://arxiv.org/pdf/2312.00992.pdf)] [[Poster](https://drive.google.com/file/d/1-p1dKWOqMT2KAGSntIzTjefS_aXD38I_/view)
+This repository contains official implementation for our paper titled "Improving Normative Modeling for Multi-modal Neuroimaging Data using mixture-of-product-of-experts variational autoencoders", accepted in IEEE International Symposium in Biomedical Imaging (IEEE ISBI 2024). [[ArXiV](https://arxiv.org/pdf/2312.00992.pdf)] [[Poster](https://drive.google.com/file/d/1-p1dKWOqMT2KAGSntIzTjefS_aXD38I_/view)]
 
 <img align="center" width="60%" height="80%" src="Plots/workflow.png"> 
 
